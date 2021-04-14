@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Usama-Taj
+- 👀 I’m interested in Web Programming, Deployment and Maintenance
+- 🌱 I’m currently learning REACT
+- 💞️ I’m looking to collaborate on Web Applications.
+- 📫 You can contact me on [LinkedIn](linkedin.com/in/usama-taj)
