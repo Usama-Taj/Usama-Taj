@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Usama-Taj
 - 👀 I’m interested in Web Programming, Deployment and Maintenance
-- 🌱 I’m currently learning REACT
+- I have learned React.JS, Redux, React on Advanced Level.
+- 🌱 I’m currently learning NEXT.JS
 - 💞️ I’m looking to collaborate on Web Applications.
